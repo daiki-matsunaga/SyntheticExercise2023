@@ -1,0 +1,1 @@
+- Open correlation.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/SyntheticExercises2023/blob/main/sample/week2/2.1_basic.ipynb)
