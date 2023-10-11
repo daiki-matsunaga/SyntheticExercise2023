@@ -1,2 +1,3 @@
 - Open 2.1_basic.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/SyntheticExercises2023/blob/main/sample/week2/2.1_basic.ipynb)
+- Open 2.2_application.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/SyntheticExercises2023/blob/main/sample/week2/2.2_application.ipynb)
 - Open movie_sample.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/SyntheticExercises2023/blob/main/sample/week2/movie_sample.ipynb)
